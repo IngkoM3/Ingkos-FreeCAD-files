@@ -6,7 +6,7 @@ A free collection of 3D models, parts, and tutorial projects created in [FreeCAD
 
 | File Name | Description | Direct Download |
 | :--- | :--- | :--- |
-| [Sample01.FCStd](Tutorial_Files/Sample01.FCStd) | First sample FreeCAD tutorial part | [<img src="images/sample01.png" width="150" alt="Download Sample01.FCStd">](Tutorial_Files/Sample01.FCStd) |
+| [Sample01.FCStd](Tutorial_Files/Sample01.FCStd) | First sample FreeCAD tutorial part | [<img src="image/sample01.jpg" width="150" alt="Download Sample01.FCStd">](Tutorial_Files/Sample01.FCStd) |
 
 ## How to Use
 
