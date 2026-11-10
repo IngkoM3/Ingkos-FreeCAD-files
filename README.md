@@ -17,7 +17,7 @@ A free collection of 3D models, parts, and tutorial projects created in [FreeCAD
 
 ## License
 
-[![License: CC BY-NC 4.0](https://licensebuttons.net)](https://creativecommons.org)
+**[License: CC BY-NC 4.0 International](https://creativecommons.org)**
 
 Copyright (c) 2026 IngkoM3
 
