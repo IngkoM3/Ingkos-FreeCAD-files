@@ -6,7 +6,13 @@ A free collection of 3D models, parts, and tutorial projects created in [FreeCAD
 
 | File Name | Description | Preview |
 | :--- | :--- | :--- |
-| [Sample01.FCStd](Tutorial_Files/Sample01.FCStd) | First sample FreeCAD tutorial part | [<img src="Tutorial_Files/image/sampe01.jpg" width="150" alt="Download Sample01.FCStd">](Tutorial_Files/Sample01.FCStd) |
+| [Sample01.FCStd](Tutorial_Files/Sample01.FCStd) | First sample FreeCAD tutorial part | [<img src="Tutorial_Files/image/sampe01.jpg" width="150" alt="Download Sample01.FCStd">](Tutorial_Files/Sample01.FCStd) 
+[TMNT.FCStd](Tutorial_Files/TMNT.FCStd) | Parametric turtle character head| [<img src="Tutorial_Files/image/sample02_TMNT.jpg" width="150" alt="Download TMNT.FCStd">](Tutorial_Files/TMNT.FCStd)
+[SheetMetalBox.FCStd](Tutorial_Files/SheetMetalBox.FCStd) | Sheet metal workbench box| [<img src="Tutorial_Files/image/SheetMetalBox.jpg" width="150" alt="Download SheetMetalBox.FCStd">](Tutorial_Files/SheetMetalBox.FCStd)
+[SimpleHouse.FCStd](Tutorial_Files/SimpleHouse.FCStd) | A simple house| [<img src="Tutorial_Files/image/SimpleHouse.jpg" width="150" alt="Download TMNT.SimpleHouse">](Tutorial_Files/SimpleHouse.FCStd)
+[Guitar.FCStd](Tutorial_Files/SheetMetalBox.FCStd) | Parametric guitat| [<img src="Tutorial_Files/image/Guitar.jpg" width="150" alt="Download Guitar.FCStd">](Tutorial_Files/Guitar.FCStd)|
+
+
 
 ## How to Use
 
